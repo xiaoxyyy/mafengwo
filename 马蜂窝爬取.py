@@ -1,6 +1,8 @@
 """
 马蜂窝游记数据爬取
 苏州：https://www.mafengwo.cn/travel-scenic-spot/mafengwo/10207.html #### http://www.mafengwo.cn/yj/10207/2-0-1.html
+auther:xiaohei
+Q:2585258690
 """
 
 import requests
